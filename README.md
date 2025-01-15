@@ -11,4 +11,4 @@ This Power BI project presents an in-depth analysis of competitor sales data, pr
 This project demonstrates proficiency in Power BI for creating impactful visualizations that support data-driven decision-making.Below are the screenshots of the dashboards created using Power BI
 
 ![Competitor Sales Analysis](https://github.com/PrajaktaVinayYadav/Competitor-Sales-Analysis-in-Power-BI/blob/main/Images/Competitor%20Sales%20Analysis.png)
-
+![Advanced Insights](https://github.com/PrajaktaVinayYadav/Competitor-Sales-Analysis-in-Power-BI/blob/main/Images/Advanced%20Insights.png)
