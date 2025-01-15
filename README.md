@@ -1,3 +1,5 @@
+# Competitor Sales Analysis Dashboard
+
 This Power BI project presents an in-depth analysis of competitor sales data, providing actionable insights into revenue trends, market share, and performance by category, manufacturer, and geography. 
 ## The dashboard includes key features such as:
 •	Total Revenue Overview: Summarizes revenue, prior year sales, growth rates, and market share.
